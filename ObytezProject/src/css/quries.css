@@ -339,6 +339,9 @@
   .grid {
     row-gap: 0rem;
   }
+ .section-about .grid {
+    row-gap: 2rem;
+  }
   .logo {
     height: 5rem;
   }
